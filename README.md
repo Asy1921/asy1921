@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a Full Stack Developer working in ZS Associates!
+My core tech stack is React and .NET.
+I'm currently learning Node and Python!
+I'm always open to collaborating!
+Contact Me - amitabh.suyash@gmail.com
 
 <!--
 **Asy1921/asy1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
