@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I'm a Full Stack Developer working in ZS Associates!
 - My core tech stack is React and .NET.
-- I'm currently learning Node and Python!
+- I'm currently learning Node, Python, and smart contracts!
 - I'm always open to collaborating!
 - Contact Me - amitabh.suyash@gmail.com
 
